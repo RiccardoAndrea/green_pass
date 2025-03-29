@@ -21,6 +21,6 @@ Il sistema è composto da più componenti che comunicano tra loro tramite socket
 ## Tecnologie utilizzate
 
 - **Socket**: La comunicazione tra i vari componenti del sistema avviene tramite socket.
-- **Linguaggio di programmazione**: Il progetto è sviluppato in linguaggio **Java** (o un altro linguaggio di tua scelta).
+- **Linguaggio di programmazione**: Il progetto è sviluppato in linguaggio **C**
   
 
